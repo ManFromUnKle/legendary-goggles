@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[it_IT]=info.png
+Name[it_IT]=conky
+Exec=bash .conky/conkytab/pop
+Name=conky
+Icon=info.png

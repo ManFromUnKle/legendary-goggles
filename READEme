@@ -1,0 +1,18 @@
+creato da @iacoporosso (spero vi possa piacere =P )
+
+uploaded by _Iacoporosso(hope you like =P)
+
+
+
+1. for run this configuration  correctly you have to put  the correct path to your file rc3 in the file called pop to have the pop-up effect
+
+2. put  the correct path in the rc file to load the image for the background
+
+3. put the offpop file in /home/user/.conky 
+
+4  to have the 'bottom' on the screen you have to correct also the path in the launcher to your pop file.
+
+5 finally you can put the launcher in the screen and use to start/stop conky..
+
+ask for any questions!!
+
